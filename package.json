@@ -1,0 +1,36 @@
+{
+  "name": "mainlayer-zapier-integration",
+  "version": "1.0.0",
+  "description": "Zapier integration for Mainlayer — connect AI agent payment events to your workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testEnvironment node --forceExit",
+    "lint": "eslint .",
+    "validate": "zapier validate"
+  },
+  "dependencies": {
+    "zapier-platform-core": "15.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/test/**/*.test.js"
+    ]
+  },
+  "engines": {
+    "node": ">=18",
+    "npm": ">=8"
+  },
+  "keywords": [
+    "zapier",
+    "mainlayer",
+    "payments",
+    "ai-agents",
+    "automation"
+  ],
+  "license": "MIT"
+}

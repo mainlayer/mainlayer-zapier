@@ -1,6 +1,6 @@
 'use strict';
 
-const BASE_URL = 'https://api.mainlayer.xyz';
+const BASE_URL = 'https://api.mainlayer.fr';
 
 /**
  * Creates a new billable resource in the Mainlayer catalog.

@@ -1,6 +1,6 @@
 'use strict';
 
-const BASE_URL = 'https://api.mainlayer.xyz';
+const BASE_URL = 'https://api.mainlayer.fr';
 
 /**
  * Tests the provided API key by calling the /v1/whoami endpoint.
@@ -36,7 +36,7 @@ module.exports = {
       required: true,
       type: 'password',
       helpText:
-        'Your Mainlayer API key. Find it in your [Mainlayer dashboard](https://app.mainlayer.xyz/settings/api-keys) under Settings → API Keys.',
+        'Your Mainlayer API key. Find it in your [Mainlayer dashboard](https://app.mainlayer.fr/settings/api-keys) under Settings → API Keys.',
     },
   ],
 

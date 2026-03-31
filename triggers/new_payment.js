@@ -1,6 +1,6 @@
 'use strict';
 
-const BASE_URL = 'https://api.mainlayer.xyz';
+const BASE_URL = 'https://api.mainlayer.fr';
 
 /**
  * Polls for new payments on the authenticated vendor's account.

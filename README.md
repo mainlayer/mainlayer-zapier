@@ -1,6 +1,6 @@
 # Mainlayer Zapier Integration
 
-Connect [Mainlayer](https://mainlayer.xyz) — payment infrastructure for apps and AI agents — to 6,000+ apps with Zapier.
+Connect [Mainlayer](https://mainlayer.fr) — payment infrastructure for apps and AI agents — to 6,000+ apps with Zapier.
 
 ## What You Can Do
 
@@ -34,7 +34,7 @@ zapier push
 ## Authentication
 
 All requests use API key authentication. Obtain your key from the
-[Mainlayer dashboard](https://app.mainlayer.xyz/settings/api-keys) under
+[Mainlayer dashboard](https://app.mainlayer.fr/settings/api-keys) under
 **Settings → API Keys**.
 
 ## Example Workflows
@@ -93,6 +93,6 @@ zapier validate
 
 ## Links
 
-- [Mainlayer Documentation](https://docs.mainlayer.xyz)
-- [Mainlayer Dashboard](https://app.mainlayer.xyz)
+- [Mainlayer Documentation](https://docs.mainlayer.fr)
+- [Mainlayer Dashboard](https://app.mainlayer.fr)
 - [Zapier Platform Docs](https://platform.zapier.com/docs)

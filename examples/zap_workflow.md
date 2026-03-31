@@ -4,8 +4,8 @@ This document describes example Zap workflows using the Mainlayer integration.
 
 ## Prerequisites
 
-1. A Mainlayer account — sign up at [mainlayer.xyz](https://mainlayer.xyz)
-2. A Mainlayer API key from your [dashboard](https://app.mainlayer.xyz/settings/api-keys)
+1. A Mainlayer account — sign up at [mainlayer.fr](https://mainlayer.fr)
+2. A Mainlayer API key from your [dashboard](https://app.mainlayer.fr/settings/api-keys)
 3. A Zapier account at [zapier.com](https://zapier.com)
 
 ---

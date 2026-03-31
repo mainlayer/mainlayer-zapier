@@ -1,6 +1,6 @@
 'use strict';
 
-const BASE_URL = 'https://api.mainlayer.xyz';
+const BASE_URL = 'https://api.mainlayer.fr';
 
 /**
  * Triggers a payment for a Mainlayer resource on behalf of a payer.
